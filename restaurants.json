@@ -1,0 +1,1123 @@
+[
+    {
+        "name": "Bajeko Sekuwa",
+        "location": { "lat": 27.7173709, "lng": 85.32888179999999 }
+    },
+    {
+        "name": "Khaja Ghar Restaurant & Bar",
+        "location": { "lat": 27.71782159999999, "lng": 85.32818019999999 }
+    },
+    {
+        "name": "Ghar Bar Restaurant",
+        "location": { "lat": 27.71735, "lng": 85.330848 }
+    },
+    {
+        "name": "Dilli Bazar",
+        "location": { "lat": 27.718854, "lng": 85.32881880000001 }
+    },
+    {
+        "name": "Wunjala Moskva",
+        "location": { "lat": 27.714271, "lng": 85.328262 }
+    },
+    {
+        "name": "Hyderabad House - Naxal",
+        "location": { "lat": 27.719237, "lng": 85.33093900000001 }
+    },
+    {
+        "name": "Pronto Pizza Nepal",
+        "location": { "lat": 27.714668, "lng": 85.3274155 }
+    },
+    {
+        "name": "Nepal Golf Zone (MaanaM",
+        "location": { "lat": 27.71950949999999, "lng": 85.33236760000001 }
+    },
+    {
+        "name": "Classic Mo:Mo",
+        "location": { "lat": 27.715419, "lng": 85.325278 }
+    },
+    {
+        "name": "Amrapali Banquet",
+        "location": { "lat": 27.7206536, "lng": 85.3310236 }
+    },
+    {
+        "name": "The Pizza Cutter, Nagpokhari",
+        "location": { "lat": 27.7157674, "lng": 85.3246173 }
+    },
+    {
+        "name": "Rum Doodle Bar & Restaurant",
+        "location": { "lat": 27.714427, "lng": 85.328707 }
+    },
+    {
+        "name": "Sayami Khaja Ghar",
+        "location": { "lat": 27.717565, "lng": 85.3289669 }
+    },
+    {
+        "name": "Tukche Thakali Kitchen",
+        "location": { "lat": 27.717583, "lng": 85.32919989999999 }
+    },
+    {
+        "name": "Biryani Ghar",
+        "location": { "lat": 27.71747, "lng": 85.328716 }
+    },
+    {
+        "name": "Tukuche Restaurant",
+        "location": { "lat": 27.71768639999999, "lng": 85.32923199999999 }
+    },
+    {
+        "name": "Yarsha Restro & Vehicle Wash",
+        "location": { "lat": 27.7177237, "lng": 85.32874389999999 }
+    },
+    {
+        "name": "hot birde life bar",
+        "location": { "lat": 27.7176427, "lng": 85.3285159 }
+    },
+    {
+        "name": "Cloud Nine MO:MO Hub And Bakery",
+        "location": { "lat": 27.7178661, "lng": 85.3290899 }
+    },
+    {
+        "name": "Cumin and Cloves Restro Bar Pvt. Ltd.",
+        "location": { "lat": 27.7178086, "lng": 85.3287266 }
+    },
+    {
+        "name": "Irish Pub",
+        "location": { "lat": 27.7183253, "lng": 85.31745579999999 }
+    },
+    { "name": "Trisara", "location": { "lat": 27.7200491, "lng": 85.3190249 } },
+    {
+        "name": "Mela Restaurant & Bar Pvt Ltd",
+        "location": { "lat": 27.71786, "lng": 85.316527 }
+    },
+    {
+        "name": "Vootoo Food Voutique",
+        "location": { "lat": 27.7182252, "lng": 85.3176669 }
+    },
+    {
+        "name": "Wellness Organic Club",
+        "location": { "lat": 27.7181013, "lng": 85.3188711 }
+    },
+    {
+        "name": "Mike's Breakfast",
+        "location": { "lat": 27.7191534, "lng": 85.3183141 }
+    },
+    {
+        "name": "Delish Restaurant & Cafe",
+        "location": { "lat": 27.717855, "lng": 85.316642 }
+    },
+    {
+        "name": "Nepali Bhojan Pvt. Ltd.",
+        "location": { "lat": 27.72031329999999, "lng": 85.3198735 }
+    },
+    { "name": "Sky High", "location": { "lat": 27.7205872, "lng": 85.319563 } },
+    {
+        "name": "Sunlight Restaurant",
+        "location": { "lat": 27.720734, "lng": 85.318584 }
+    },
+    {
+        "name": "Happy Garden Restro",
+        "location": { "lat": 27.7177703, "lng": 85.32394029999999 }
+    },
+    {
+        "name": "JAZZ UPSTAIRS",
+        "location": { "lat": 27.720272, "lng": 85.3189515 }
+    },
+    {
+        "name": "Tuxx Spot",
+        "location": { "lat": 27.7181268, "lng": 85.3190745 }
+    },
+    {
+        "name": "Capital Food Cafe",
+        "location": { "lat": 27.71807, "lng": 85.3194212 }
+    },
+    {
+        "name": "House of Karim's - Mughal Affair",
+        "location": { "lat": 27.718159, "lng": 85.31755160000002 }
+    },
+    {
+        "name": "Cellars Cafe Lounge & Bar",
+        "location": { "lat": 27.7182007, "lng": 85.3174693 }
+    },
+    {
+        "name": "Noir Fennel",
+        "location": { "lat": 27.7181724, "lng": 85.3174274 }
+    },
+    { "name": "Mauri", "location": { "lat": 27.7184487, "lng": 85.3176202 } },
+    {
+        "name": "Villa Seventy Two",
+        "location": { "lat": 27.7181749, "lng": 85.3173212 }
+    },
+    {
+        "name": "Villa 72 Restaurant",
+        "location": { "lat": 27.7181751, "lng": 85.31732099999999 }
+    },
+    {
+        "name": "Salon de Kathmandu Cafe & Bistro",
+        "location": { "lat": 27.72131, "lng": 85.32100799999999 }
+    },
+    {
+        "name": "Tings Tea Lounge & Lounge Hotel",
+        "location": { "lat": 27.7230018, "lng": 85.3200244 }
+    },
+    {
+        "name": "Royal Empire Boutique Hotel",
+        "location": { "lat": 27.722913, "lng": 85.3286 }
+    },
+    {
+        "name": "Noodles house n’ burger bar",
+        "location": { "lat": 27.72176799999999, "lng": 85.32318200000002 }
+    },
+    {
+        "name": "Rose Garden Restaurant",
+        "location": { "lat": 27.7213179, "lng": 85.3231787 }
+    },
+    {
+        "name": "Korean Song Restaurant & Bar",
+        "location": { "lat": 27.720955, "lng": 85.323071 }
+    },
+    {
+        "name": "Mingma Restaurant",
+        "location": { "lat": 27.720538, "lng": 85.3245869 }
+    },
+    {
+        "name": "Newari Khaja Ghar",
+        "location": { "lat": 27.72030299999999, "lng": 85.324282 }
+    },
+    {
+        "name": "Rajmati Newari Kitchen",
+        "location": { "lat": 27.7230651, "lng": 85.3246482 }
+    },
+    {
+        "name": "Dhanakuta Khaja Ghar",
+        "location": { "lat": 27.720136, "lng": 85.324327 }
+    },
+    {
+        "name": "Cris Tandoori Fast Food",
+        "location": { "lat": 27.720021, "lng": 85.324248 }
+    },
+    {
+        "name": "दिल्स खाजा एण्ड तन्दुरी भोजनालय",
+        "location": { "lat": 27.7199262, "lng": 85.32425090000001 }
+    },
+    {
+        "name": "Ichiban Multi Cuisine and Multi Purpose Venue",
+        "location": { "lat": 27.7229467, "lng": 85.32239039999999 }
+    },
+    {
+        "name": "Famous chocolate dumplings Center",
+        "location": { "lat": 27.720179, "lng": 85.325377 }
+    },
+    {
+        "name": "Makawanpur Mo:Mo: and Newari Khaja Ghar",
+        "location": { "lat": 27.720094, "lng": 85.32531 }
+    },
+    {
+        "name": "Indreni Party Palace",
+        "location": { "lat": 27.721027, "lng": 85.32184529999999 }
+    },
+    {
+        "name": "Highland newari restaurant",
+        "location": { "lat": 27.7228582, "lng": 85.3220497 }
+    },
+    {
+        "name": "The Marigold Cafe",
+        "location": { "lat": 27.7132902, "lng": 85.3236035 }
+    },
+    { "name": "Bajeko", "location": { "lat": 27.7110759, "lng": 85.3243996 } },
+    {
+        "name": "Darjeeling Restaurant & Bar",
+        "location": { "lat": 27.7152009, "lng": 85.3244182 }
+    },
+    {
+        "name": "Bota Mo:Mo",
+        "location": { "lat": 27.7100169, "lng": 85.3247323 }
+    },
+    {
+        "name": "Everest Panorama Resort",
+        "location": { "lat": 27.710132, "lng": 85.3262189 }
+    },
+    {
+        "name": "New Makalu Restaurant",
+        "location": { "lat": 27.7104949, "lng": 85.3215779 }
+    },
+    {
+        "name": "Sunrise Restaurant",
+        "location": { "lat": 27.7116389, "lng": 85.3200454 }
+    },
+    {
+        "name": "The Pizza Cutter, Kamalpokhari",
+        "location": { "lat": 27.708948, "lng": 85.324614 }
+    },
+    {
+        "name": "The Beijing Garden Chinese Food",
+        "location": { "lat": 27.709226, "lng": 85.326022 }
+    },
+    {
+        "name": "Lum Phung Wa Momo",
+        "location": { "lat": 27.709484, "lng": 85.326576 }
+    },
+    {
+        "name": "Royal Thai Restaurant",
+        "location": { "lat": 27.709495, "lng": 85.326627 }
+    },
+    {
+        "name": "Hakkasan Chinese Restaurant",
+        "location": { "lat": 27.709483, "lng": 85.326611 }
+    },
+    {
+        "name": "Sangam Sweets",
+        "location": { "lat": 27.7090793, "lng": 85.3220683 }
+    },
+    {
+        "name": "Pizza Xpress",
+        "location": { "lat": 27.709489, "lng": 85.3266819 }
+    },
+    {
+        "name": "Brijwasi Authentic Indian Vegetarian Cousine",
+        "location": { "lat": 27.709449, "lng": 85.326628 }
+    },
+    {
+        "name": "Aj's Laziz",
+        "location": { "lat": 27.7095171, "lng": 85.3270367 }
+    },
+    {
+        "name": "Special MoMo & Khaja Ghar",
+        "location": { "lat": 27.70824219999999, "lng": 85.3341489 }
+    },
+    {
+        "name": "Zunsa Cafe",
+        "location": { "lat": 27.7084338, "lng": 85.33405049999999 }
+    },
+    {
+        "name": "Jhol Mo:Mo Center",
+        "location": { "lat": 27.70830209999999, "lng": 85.3347058 }
+    },
+    {
+        "name": "Jmc resturent",
+        "location": { "lat": 27.7083352, "lng": 85.3347014 }
+    },
+    {
+        "name": "Kiran Dai Ko Masanggale Ko Purano Sandar Mo:mo:",
+        "location": { "lat": 27.7083364, "lng": 85.3335183 }
+    },
+    {
+        "name": "Ratopul Suddha Veg Mo:Mo Center",
+        "location": { "lat": 27.708081, "lng": 85.3348199 }
+    },
+    {
+        "name": "Kaula Chhen:",
+        "location": { "lat": 27.7081451, "lng": 85.3348888 }
+    },
+    {
+        "name": "Lahasho Fast Food & Khaja Ghar",
+        "location": { "lat": 27.708021, "lng": 85.3349059 }
+    },
+    {
+        "name": "Yellow Cafe",
+        "location": { "lat": 27.7078851, "lng": 85.3334555 }
+    },
+    {
+        "name": "Best and Test Fast Food",
+        "location": { "lat": 27.70782, "lng": 85.33343090000001 }
+    },
+    {
+        "name": "The Pizza Factor",
+        "location": { "lat": 27.70757309999999, "lng": 85.334631 }
+    },
+    {
+        "name": "Tapai Hamro Khaja Ghar",
+        "location": { "lat": 27.7077299, "lng": 85.3348852 }
+    },
+    {
+        "name": "Gorya Food Point & Canteen",
+        "location": { "lat": 27.7081273, "lng": 85.3354122 }
+    },
+    {
+        "name": "Naba Kantipur Tandoori Fast Food",
+        "location": { "lat": 27.7080694, "lng": 85.3354384 }
+    },
+    {
+        "name": "Food Station",
+        "location": { "lat": 27.7093099, "lng": 85.33326749999999 }
+    },
+    {
+        "name": "Mahalakshmi Mo:Mo & Newari Khaja Ghar",
+        "location": { "lat": 27.7069397, "lng": 85.3346139 }
+    },
+    {
+        "name": "Jay Ma Ambe Bhaja and Panipuri Center",
+        "location": { "lat": 27.7080632, "lng": 85.33579379999999 }
+    },
+    {
+        "name": "Cynical store",
+        "location": { "lat": 27.706625, "lng": 85.333576 }
+    },
+    {
+        "name": "Saroj and Niroj Coffee Shop",
+        "location": { "lat": 27.707999, "lng": 85.336073 }
+    },
+    {
+        "name": "Best Food Cafe",
+        "location": { "lat": 27.7060856, "lng": 85.3231327 }
+    },
+    {
+        "name": "The Burger House",
+        "location": { "lat": 27.70551579999999, "lng": 85.32325639999999 }
+    },
+    {
+        "name": "Daleen Restro & Bar",
+        "location": { "lat": 27.7052466, "lng": 85.3237904 }
+    },
+    {
+        "name": "Ichiban Multi Cuisine & Multi Purpose Venue",
+        "location": { "lat": 27.7071884, "lng": 85.3273042 }
+    },
+    {
+        "name": "Kwality Food Cafe (Dillibazar)",
+        "location": { "lat": 27.705704, "lng": 85.3267346 }
+    },
+    {
+        "name": "Kumari Restaurant & Bar",
+        "location": { "lat": 27.70477959999999, "lng": 85.32284059999999 }
+    },
+    {
+        "name": "CFC Restaurant & Bar",
+        "location": { "lat": 27.7093342, "lng": 85.3282886 }
+    },
+    {
+        "name": "Hemingway's",
+        "location": { "lat": 27.720355, "lng": 85.32037100000001 }
+    },
+    {
+        "name": "Sal's Pizza",
+        "location": { "lat": 27.721328, "lng": 85.3186204 }
+    },
+    {
+        "name": "Variety Khaja Ghar",
+        "location": { "lat": 27.720972, "lng": 85.3195229 }
+    },
+    {
+        "name": "Golden Gate Peace Restaurant",
+        "location": { "lat": 27.7215052, "lng": 85.3200837 }
+    },
+    {
+        "name": "Subin sayami",
+        "location": { "lat": 27.7215031, "lng": 85.3200837 }
+    },
+    {
+        "name": "Sabko Khaja Ghar",
+        "location": { "lat": 27.7215031, "lng": 85.3200837 }
+    },
+    {
+        "name": "Aama Ko Khaja Ghar",
+        "location": { "lat": 27.7215031, "lng": 85.3200837 }
+    },
+    {
+        "name": "The Burger House 'N' Crunchy Fried Chicken",
+        "location": { "lat": 27.7051477, "lng": 85.3287154 }
+    },
+    {
+        "name": "Lucknow का Zaika",
+        "location": { "lat": 27.7124532, "lng": 85.3292247 }
+    },
+    {
+        "name": "Bhojan Griha",
+        "location": { "lat": 27.706422, "lng": 85.325464 }
+    },
+    {
+        "name": "City Centre",
+        "location": { "lat": 27.7097955, "lng": 85.3264372 }
+    },
+    {
+        "name": "Dubz Cup",
+        "location": { "lat": 27.7075095, "lng": 85.3297602 }
+    },
+    {
+        "name": "Pizza zone",
+        "location": { "lat": 27.7092935, "lng": 85.3289793 }
+    },
+    {
+        "name": "Junction Khajaghar",
+        "location": { "lat": 27.708841, "lng": 85.330196 }
+    },
+    {
+        "name": "Bhanchhaghar",
+        "location": { "lat": 27.7079338, "lng": 85.3189901 }
+    },
+    {
+        "name": "Spice Village",
+        "location": { "lat": 27.7080871, "lng": 85.3179957 }
+    },
+    { "name": "Dalle", "location": { "lat": 27.7101521, "lng": 85.3196591 } },
+    { "name": "Cafe 33", "location": { "lat": 27.7105877, "lng": 85.3185075 } },
+    {
+        "name": "Octave Kathmandu",
+        "location": { "lat": 27.7099326, "lng": 85.31688989999999 }
+    },
+    {
+        "name": "Cafe 33 Durbarmarg",
+        "location": { "lat": 27.7064078, "lng": 85.3167856 }
+    },
+    {
+        "name": "MOTI MAHAL",
+        "location": { "lat": 27.7064795, "lng": 85.3163816 }
+    },
+    {
+        "name": "The Old House Pvt. Ltd.",
+        "location": { "lat": 27.7109632, "lng": 85.31782559999999 }
+    },
+    {
+        "name": "The Coffee Shop & Cake Shop",
+        "location": { "lat": 27.7113064, "lng": 85.31729709999999 }
+    },
+    {
+        "name": "Exclusive Mehendi",
+        "location": { "lat": 27.7120897, "lng": 85.31756899999999 }
+    },
+    {
+        "name": "KFC Durbar Marg",
+        "location": { "lat": 27.710586, "lng": 85.3172764 }
+    },
+    {
+        "name": "Madhushala",
+        "location": { "lat": 27.7124348, "lng": 85.31751340000001 }
+    },
+    {
+        "name": "Royal tai ostrich restaurant",
+        "location": { "lat": 27.71255889999999, "lng": 85.3175966 }
+    },
+    {
+        "name": "The Bakery & Cafe",
+        "location": { "lat": 27.7098379, "lng": 85.3185783 }
+    },
+    {
+        "name": "Nanglo Restaurant",
+        "location": { "lat": 27.707936, "lng": 85.318799 }
+    },
+    {
+        "name": "biryani hotel",
+        "location": { "lat": 27.7079121, "lng": 85.3186819 }
+    },
+    {
+        "name": "Mezze by Roadhouse",
+        "location": { "lat": 27.7127895, "lng": 85.3174056 }
+    },
+    {
+        "name": "Kaiser Café",
+        "location": { "lat": 27.7138577, "lng": 85.3151508 }
+    },
+    { "name": "RajuRoy", "location": { "lat": 27.7124402, "lng": 85.3183708 } },
+    {
+        "name": "Royal Fast Food",
+        "location": { "lat": 27.713218, "lng": 85.3185489 }
+    },
+    {
+        "name": "Chinese Friendship Restaurant",
+        "location": { "lat": 27.7126219, "lng": 85.3180151 }
+    },
+    {
+        "name": "Utsav Authentic Nepali Restaurant",
+        "location": { "lat": 27.71255469999999, "lng": 85.3200076 }
+    },
+    {
+        "name": "The Chimney Restaurant",
+        "location": { "lat": 27.712078, "lng": 85.3199344 }
+    },
+    {
+        "name": "Belle Ville Cafe Pub",
+        "location": { "lat": 27.7222196, "lng": 85.331233 }
+    },
+    {
+        "name": "Nepal House Restaurant, Bar & Bakery",
+        "location": { "lat": 27.7234137, "lng": 85.3307322 }
+    },
+    {
+        "name": "Cafe Baluwatar",
+        "location": { "lat": 27.7255554, "lng": 85.3308454 }
+    },
+    {
+        "name": "Roadhouse Cafe, Bhatbhateni",
+        "location": { "lat": 27.72020029999999, "lng": 85.33145329999999 }
+    },
+    {
+        "name": "Baluwatar Palace( Banquet & Events)",
+        "location": { "lat": 27.7216596, "lng": 85.3291709 }
+    },
+    {
+        "name": "Baluwatar Kitchen Express",
+        "location": { "lat": 27.721994, "lng": 85.3285519 }
+    },
+    {
+        "name": "Oregano Flavoured Of Food, Baluwatar",
+        "location": { "lat": 27.7216627, "lng": 85.3281105 }
+    },
+    {
+        "name": "Oregano Flavoured Of Food",
+        "location": { "lat": 27.7216654, "lng": 85.32810719999999 }
+    },
+    {
+        "name": "Alice Restaurant",
+        "location": { "lat": 27.7205067, "lng": 85.32881920000001 }
+    },
+    {
+        "name": "Samsara Coffee",
+        "location": { "lat": 27.7212814, "lng": 85.33048199999999 }
+    },
+    {
+        "name": "Nigalo The Garden Restaurant",
+        "location": { "lat": 27.7203615, "lng": 85.3291959 }
+    },
+    {
+        "name": "HappyTummyz",
+        "location": { "lat": 27.723034, "lng": 85.3280053 }
+    },
+    { "name": "DELISH", "location": { "lat": 27.7125389, "lng": 85.3288975 } },
+    {
+        "name": "R.S Chinese Food",
+        "location": { "lat": 27.7130299, "lng": 85.32888539999999 }
+    },
+    {
+        "name": "Mini Bistro",
+        "location": { "lat": 27.7131162, "lng": 85.3287845 }
+    },
+    {
+        "name": "Aacharya Fast Food",
+        "location": { "lat": 27.71208, "lng": 85.3286179 }
+    },
+    {
+        "name": "Open dumplings center",
+        "location": { "lat": 27.7127299, "lng": 85.328075 }
+    },
+    {
+        "name": "Bikash Khaja Ghar",
+        "location": { "lat": 27.711888, "lng": 85.328572 }
+    },
+    {
+        "name": "Gorkhali Khaja Ghar",
+        "location": { "lat": 27.7118434, "lng": 85.3285518 }
+    },
+    {
+        "name": "Special Newari Khaja Ghar",
+        "location": { "lat": 27.7123012, "lng": 85.33021839999999 }
+    },
+    {
+        "name": "Gorkha Kitchen",
+        "location": { "lat": 27.7129192, "lng": 85.3275472 }
+    },
+    {
+        "name": "Maa Bhagwati Fast Food",
+        "location": { "lat": 27.7112639, "lng": 85.3284753 }
+    },
+    {
+        "name": "Watering hole Gastro Pub",
+        "location": { "lat": 27.712322, "lng": 85.3307435 }
+    },
+    {
+        "name": "हाम्रो खाजाघर",
+        "location": { "lat": 27.7120777, "lng": 85.3307428 }
+    },
+    {
+        "name": "Purbeli Khaja & Sekuwa Corner",
+        "location": { "lat": 27.713014, "lng": 85.3272899 }
+    },
+    {
+        "name": "鸡汤客 Chicken Soup Guest Restaurant",
+        "location": { "lat": 27.71128109999999, "lng": 85.3281457 }
+    },
+    {
+        "name": "New - 九号庭院餐厅.The 9th Courtyard Garden Restaurant",
+        "location": { "lat": 27.7112434, "lng": 85.32811989999999 }
+    },
+    {
+        "name": "Cafe Center Point",
+        "location": { "lat": 27.712124, "lng": 85.3309799 }
+    },
+    {
+        "name": "Everest MoMo Center",
+        "location": { "lat": 27.7108434, "lng": 85.3282953 }
+    },
+    {
+        "name": "Chito Mitho Stick Food",
+        "location": { "lat": 27.710815, "lng": 85.328295 }
+    },
+    {
+        "name": "Mac MOMO",
+        "location": { "lat": 27.71343539999999, "lng": 85.32666019999999 }
+    },
+    {
+        "name": "Dhaulagiri Flavors",
+        "location": { "lat": 27.7145713, "lng": 85.3275067 }
+    },
+    {
+        "name": "Buddha Khaja Ghar",
+        "location": { "lat": 27.711905, "lng": 85.3315789 }
+    },
+    {
+        "name": "Kumar Khaja Ghar",
+        "location": { "lat": 27.713935, "lng": 85.3267829 }
+    },
+    {
+        "name": "Himal Hospital Canteen",
+        "location": { "lat": 27.71036, "lng": 85.32828789999999 }
+    },
+    {
+        "name": "Tass Restaurant",
+        "location": { "lat": 27.7103657, "lng": 85.3282524 }
+    },
+    {
+        "name": "ZOMSA",
+        "location": { "lat": 27.71444199999999, "lng": 85.327058 }
+    },
+    {
+        "name": "Akriti Khaja Ghar",
+        "location": { "lat": 27.712181, "lng": 85.326264 }
+    },
+    { "name": "Hydeout", "location": { "lat": 27.7105345, "lng": 85.3275075 } },
+    {
+        "name": "Rush Cafe",
+        "location": { "lat": 27.7146476, "lng": 85.3271594 }
+    },
+    {
+        "name": "Cafe Kalash and Mo:Mo: Ghar",
+        "location": { "lat": 27.7117397, "lng": 85.3263135 }
+    },
+    {
+        "name": "kunja thakali and newari fast food",
+        "location": { "lat": 27.71166779999999, "lng": 85.32629399999999 }
+    },
+    {
+        "name": "Sabnam Khaja Ghar",
+        "location": { "lat": 27.711724, "lng": 85.326109 }
+    },
+    {
+        "name": "Momo Ten Sama Marga Near Kamalpokhari Apartment",
+        "location": { "lat": 27.7117088, "lng": 85.32586839999999 }
+    },
+    {
+        "name": "CountryYard",
+        "location": { "lat": 27.7147638, "lng": 85.3265925 }
+    },
+    {
+        "name": "Prem Lunch Home",
+        "location": { "lat": 27.71406, "lng": 85.3260179 }
+    },
+    {
+        "name": "Dhankuta Khaja Ghar",
+        "location": { "lat": 27.71407799999999, "lng": 85.326026 }
+    },
+    { "name": "Angan", "location": { "lat": 27.7098287, "lng": 85.327838 } },
+    {
+        "name": "DungeDhara Khaja Ghar",
+        "location": { "lat": 27.7133182, "lng": 85.3256631 }
+    },
+    {
+        "name": "Tawa Multi Cuisine Restaurant",
+        "location": { "lat": 27.7097088, "lng": 85.3279738 }
+    },
+    {
+        "name": "Fuse-On Pizza hub & Cafe",
+        "location": { "lat": 27.709702, "lng": 85.32792390000002 }
+    },
+    {
+        "name": "Nandi Khaja Ghar",
+        "location": { "lat": 27.714017, "lng": 85.3257989 }
+    },
+    {
+        "name": "AT Burger",
+        "location": { "lat": 27.70951149999999, "lng": 85.3284565 }
+    },
+    {
+        "name": "Three Tables Restaurant",
+        "location": { "lat": 27.708397, "lng": 85.323746 }
+    },
+    {
+        "name": "Simple Brunch & Pizzeria",
+        "location": { "lat": 27.708374, "lng": 85.3237255 }
+    },
+    {
+        "name": "Nisha Khazaghar",
+        "location": { "lat": 27.7083968, "lng": 85.32374229999999 }
+    },
+    {
+        "name": "Three Tables Cafe",
+        "location": { "lat": 27.7082669, "lng": 85.323662 }
+    },
+    {
+        "name": "Lumbini khaja ghar",
+        "location": { "lat": 27.7081525, "lng": 85.3236638 }
+    },
+    {
+        "name": "Simple Paun and Confectionery",
+        "location": { "lat": 27.7082932, "lng": 85.32366420000001 }
+    },
+    {
+        "name": "Susan Khaja Ghar",
+        "location": { "lat": 27.70834, "lng": 85.323606 }
+    },
+    {
+        "name": "Halal Fast Food",
+        "location": { "lat": 27.70838, "lng": 85.323566 }
+    },
+    {
+        "name": "कुमार दाइको दुनोट पसल",
+        "location": { "lat": 27.7076984, "lng": 85.3233922 }
+    },
+    {
+        "name": "New Top Momo Center",
+        "location": { "lat": 27.7076464, "lng": 85.3233855 }
+    },
+    {
+        "name": "Pancha Kumari Khaja Ghar",
+        "location": { "lat": 27.7089074, "lng": 85.3243937 }
+    },
+    {
+        "name": "Swadista Mo:Mo",
+        "location": { "lat": 27.7088427, "lng": 85.32450970000001 }
+    },
+    {
+        "name": "Miss five restaurants",
+        "location": { "lat": 27.70897899999999, "lng": 85.3244859 }
+    },
+    {
+        "name": "Sujal Sweets",
+        "location": { "lat": 27.707555, "lng": 85.32323509999999 }
+    },
+    {
+        "name": "Khaja Time",
+        "location": { "lat": 27.7090421, "lng": 85.32461699999999 }
+    },
+    {
+        "name": "Smart Alley Restro",
+        "location": { "lat": 27.7084693, "lng": 85.3228068 }
+    },
+    {
+        "name": "Tasty Bites Burger,",
+        "location": { "lat": 27.7090359, "lng": 85.32478929999999 }
+    },
+    {
+        "name": "Right Alley Cafe",
+        "location": { "lat": 27.7078427, "lng": 85.32260869999999 }
+    },
+    {
+        "name": "Delight Valley Restro",
+        "location": { "lat": 27.70717, "lng": 85.3231599 }
+    },
+    {
+        "name": "Fresh Bites Cafe",
+        "location": { "lat": 27.709252, "lng": 85.32493850000002 }
+    },
+    {
+        "name": "Eaternity The Student Lounge",
+        "location": { "lat": 27.7095622, "lng": 85.3242532 }
+    },
+    {
+        "name": "Kedar Brother Cafe",
+        "location": { "lat": 27.7092487, "lng": 85.3250596 }
+    },
+    {
+        "name": "Ek Cup Coffee Piyun",
+        "location": { "lat": 27.7071623, "lng": 85.3227632 }
+    },
+    {
+        "name": "Sekuwa Store",
+        "location": { "lat": 27.7079848, "lng": 85.3222627 }
+    },
+    {
+        "name": "COFFEE AVENUE",
+        "location": { "lat": 27.7068958, "lng": 85.3230593 }
+    },
+    {
+        "name": "Evergreen Fast Food",
+        "location": { "lat": 27.708631, "lng": 85.32210300000001 }
+    },
+    {
+        "name": "Ghar Ghar Food Sansar",
+        "location": { "lat": 27.7068405, "lng": 85.32279559999999 }
+    },
+    {
+        "name": "Patio Restaurant",
+        "location": { "lat": 27.7080433, "lng": 85.3220199 }
+    },
+    {
+        "name": "SEAMAN'S COTTAGE",
+        "location": { "lat": 27.7086002, "lng": 85.3259242 }
+    },
+    {
+        "name": "Feast n Fizz Restro",
+        "location": { "lat": 27.7084357, "lng": 85.3219945 }
+    },
+    {
+        "name": "Cafe Lion´s Heart",
+        "location": { "lat": 27.7084672, "lng": 85.3219992 }
+    },
+    {
+        "name": "Shree Bindabasini Bhojanalay and Restaurant",
+        "location": { "lat": 27.7069115, "lng": 85.3225896 }
+    },
+    {
+        "name": "Saino Restaurant & Snooker House",
+        "location": { "lat": 27.7086038, "lng": 85.3219998 }
+    },
+    {
+        "name": "Open House Fast Food",
+        "location": { "lat": 27.7086963, "lng": 85.32201359999999 }
+    },
+    {
+        "name": "LITTLE CHINA",
+        "location": { "lat": 27.7126235, "lng": 85.3242186 }
+    },
+    { "name": "Edamame", "location": { "lat": 27.7129744, "lng": 85.3241426 } },
+    {
+        "name": "Thamel Kitchen",
+        "location": { "lat": 27.7130926, "lng": 85.3239387 }
+    },
+    {
+        "name": "Twrinks",
+        "location": { "lat": 27.7130451, "lng": 85.32420390000001 }
+    },
+    {
+        "name": "Parakhi Restaurant & Bar with Thakali Bhanchha Ghar (पारखी रेस्टुरेन्ट एन्ड बार थकाली भान्छा घर तथा सेकुवा कर्नर)",
+        "location": { "lat": 27.7131424, "lng": 85.324107 }
+    },
+    {
+        "name": "Jha Sa Lounge and Bar",
+        "location": { "lat": 27.7121469, "lng": 85.3246066 }
+    },
+    {
+        "name": "do.ba.to",
+        "location": { "lat": 27.7132217, "lng": 85.3246535 }
+    },
+    {
+        "name": "Peace zone fast food",
+        "location": { "lat": 27.713371, "lng": 85.3234258 }
+    },
+    {
+        "name": "Aisa Khaja Ghar",
+        "location": { "lat": 27.713252, "lng": 85.3247069 }
+    },
+    {
+        "name": "Mazaaj Restro & Sheesha Lounge",
+        "location": { "lat": 27.7130921, "lng": 85.3248495 }
+    },
+    {
+        "name": "Dabali@nagpokhari cafe",
+        "location": { "lat": 27.7136236, "lng": 85.3245154 }
+    },
+    {
+        "name": "Momo Karma",
+        "location": { "lat": 27.7137123, "lng": 85.3245094 }
+    },
+    {
+        "name": "Rio Banquete",
+        "location": { "lat": 27.7118387, "lng": 85.32520170000001 }
+    },
+    {
+        "name": "Galley Canteen",
+        "location": { "lat": 27.7121419, "lng": 85.32247219999999 }
+    },
+    {
+        "name": "Fast Food Factory",
+        "location": { "lat": 27.7135853, "lng": 85.3226633 }
+    },
+    {
+        "name": "Nawa- jhalak cafe & resturand",
+        "location": { "lat": 27.7136046, "lng": 85.32263019999999 }
+    },
+    {
+        "name": "Symphony restaurant",
+        "location": { "lat": 27.7111287, "lng": 85.3244457 }
+    },
+    {
+        "name": "Jomsom Thakali Kitchen & Fastfood",
+        "location": { "lat": 27.7110759, "lng": 85.3243996 }
+    },
+    {
+        "name": "Bubbles Cafe",
+        "location": { "lat": 27.7201464, "lng": 85.3300086 }
+    },
+    {
+        "name": "Angel Walk Pub",
+        "location": { "lat": 27.7222305, "lng": 85.3310989 }
+    },
+    {
+        "name": "Ohh! My Chicken Pizza Hub",
+        "location": { "lat": 27.7223867, "lng": 85.3310808 }
+    },
+    {
+        "name": "Sherpa Khaja Ghar",
+        "location": { "lat": 27.721914, "lng": 85.331221 }
+    },
+    {
+        "name": "ALICE RECEPTION",
+        "location": { "lat": 27.7197152, "lng": 85.3291204 }
+    },
+    {
+        "name": "New Sayami Restaurant & Bar",
+        "location": { "lat": 27.7221411, "lng": 85.3312476 }
+    },
+    {
+        "name": "Neptune foodland & grill house",
+        "location": { "lat": 27.7221462, "lng": 85.33124749999999 }
+    },
+    {
+        "name": "A K Restaurant & Bar with Homestay",
+        "location": { "lat": 27.7232257, "lng": 85.32758319999999 }
+    },
+    {
+        "name": "Vishal khaja Ghar",
+        "location": { "lat": 27.721975, "lng": 85.32673400000002 }
+    },
+    {
+        "name": "Apsara Khaja Ghar",
+        "location": { "lat": 27.721918, "lng": 85.3267089 }
+    },
+    {
+        "name": "Bhatbhateni Naan And Sekuwa House",
+        "location": { "lat": 27.72011999999999, "lng": 85.330666 }
+    },
+    {
+        "name": "OLD MATE, The local Table",
+        "location": { "lat": 27.7222145, "lng": 85.3314025 }
+    },
+    { "name": "Noyoz", "location": { "lat": 27.7226603, "lng": 85.3312162 } },
+    {
+        "name": "Los Escobar’s",
+        "location": { "lat": 27.7196866, "lng": 85.3282136 }
+    },
+    {
+        "name": "Times Square Restaurant",
+        "location": { "lat": 27.722714, "lng": 85.3313926 }
+    },
+    {
+        "name": "Grace Restaurant And Bar, Baluwatar",
+        "location": { "lat": 27.723212, "lng": 85.3311608 }
+    },
+    {
+        "name": "Caviar Restaurant & Bar",
+        "location": { "lat": 27.72325469999999, "lng": 85.3312048 }
+    },
+    {
+        "name": "Grace Restaurant And Bar Pvt. Ltd.",
+        "location": { "lat": 27.72325469999999, "lng": 85.3312048 }
+    },
+    { "name": "Prazada", "location": { "lat": 27.720762, "lng": 85.3316638 } },
+    {
+        "name": "Newari Khajaghar & Magic Mo:Mo",
+        "location": { "lat": 27.7196541, "lng": 85.3306898 }
+    },
+    {
+        "name": "BHOJ GHAR",
+        "location": { "lat": 27.7191944, "lng": 85.328734 }
+    },
+    {
+        "name": "Bhojghar Restaurant And Bar",
+        "location": { "lat": 27.7191747, "lng": 85.3287275 }
+    },
+    {
+        "name": "雞湯客（喜植）面館",
+        "location": { "lat": 27.7204561, "lng": 85.331587 }
+    },
+    {
+        "name": "Taiwanese Kitchen 台灣廚房",
+        "location": { "lat": 27.7201981, "lng": 85.3314504 }
+    },
+    {
+        "name": "Pepe's Pizza",
+        "location": { "lat": 27.7195925, "lng": 85.33077349999999 }
+    },
+    {
+        "name": "Lumbini Tandoori Bhojnalaya",
+        "location": { "lat": 27.719988, "lng": 85.331321 }
+    },
+    {
+        "name": "Bhatbhateni Hygenic Food Home",
+        "location": { "lat": 27.7195595, "lng": 85.33084749999999 }
+    },
+    {
+        "name": "Cuisine Court",
+        "location": { "lat": 27.7201181, "lng": 85.33177959999999 }
+    },
+    {
+        "name": "Syanko Katti Rolls (Naxal Outlet)",
+        "location": { "lat": 27.7192269, "lng": 85.33095039999999 }
+    },
+    {
+        "name": "Lama Chhahari Khaja Ghar",
+        "location": { "lat": 27.7203539, "lng": 85.32606299999999 }
+    },
+    {
+        "name": "Choice Karti roll",
+        "location": { "lat": 27.7187954, "lng": 85.328133 }
+    },
+    {
+        "name": "Buzz Cafe",
+        "location": { "lat": 27.7195306, "lng": 85.3316858 }
+    },
+    {
+        "name": "Food Zone Cafe",
+        "location": { "lat": 27.7243239, "lng": 85.33115749999999 }
+    },
+    {
+        "name": "Cafe De Tukche",
+        "location": { "lat": 27.7244091, "lng": 85.33106289999999 }
+    },
+    {
+        "name": "The Bakery Cafe Bhatbhateni",
+        "location": { "lat": 27.7190672, "lng": 85.33126829999999 }
+    },
+    {
+        "name": "Mc stand",
+        "location": { "lat": 27.7186506, "lng": 85.3305694 }
+    },
+    {
+        "name": "Amantran Thakali Kitchen",
+        "location": { "lat": 27.7186432, "lng": 85.33057099999999 }
+    },
+    {
+        "name": "Riz Cafe",
+        "location": { "lat": 27.7240658, "lng": 85.3317107 }
+    },
+    {
+        "name": "Wasabi Panda Restaurant & Bar",
+        "location": { "lat": 27.7132071, "lng": 85.3221665 }
+    },
+    {
+        "name": "Gossip cafe and bar",
+        "location": { "lat": 27.7131267, "lng": 85.3221279 }
+    },
+    {
+        "name": "Milan Khaja Ghar",
+        "location": { "lat": 27.7143967, "lng": 85.32416549999999 }
+    },
+    {
+        "name": "Newari Fast Food",
+        "location": { "lat": 27.713379, "lng": 85.3221499 }
+    },
+    {
+        "name": "SIMRIK CAFE $ RESTAURANT",
+        "location": { "lat": 27.7134137, "lng": 85.32211819999999 }
+    },
+    {
+        "name": "Kamalpokhari Khaja Ghar",
+        "location": { "lat": 27.7112333, "lng": 85.32518999999999 }
+    },
+    {
+        "name": "Corona Garden",
+        "location": { "lat": 27.7134523, "lng": 85.3221148 }
+    },
+    {
+        "name": "1905 Restaurant",
+        "location": { "lat": 27.7143677, "lng": 85.324899 }
+    },
+    {
+        "name": "Krishna Fast Food",
+        "location": { "lat": 27.7135998, "lng": 85.3220916 }
+    },
+    {
+        "name": "KTM Espresso Restaurant",
+        "location": { "lat": 27.714674, "lng": 85.32492040000001 }
+    },
+    {
+        "name": "Lasoon saloon restaurant & bar",
+        "location": { "lat": 27.7104997, "lng": 85.323251 }
+    }
+]
