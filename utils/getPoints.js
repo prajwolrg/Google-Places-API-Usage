@@ -1,16 +1,17 @@
 /**
- * Add two numbers together
+ * Creates a series of equally-spaced points around the center latitude and longitude
  * @param  {Number} lat The center latitude
  * @param  {Number} long The center longitude
- * @param  {Number} dlat The second number
- * @param  {Number} dlong The second number
- * @return {Number}      The total of the two numbers
+ * @param  {Number} dlat (in meters) The distance you would like to move in each iteration away from lat
+ * @param  {Number} dlong (in meters) The distance you would like to move in each iteration away from long
+ * @param  {Number} concentricIteration The total iteration you would like to do outside the center {lat} and {long}.
+ * @return {Array} The points around the center {lat} and {long}
  */
 
-function getPoints(lat, long, dlat, dlong, width) {
+function getPoints(lat, long, dlat, dlong, concentricIteration) {
     let centerPoints = [];
     centerPoints.push(`${lat},${long}`);
-    for (let i = 0; i < width; i++) {
+    for (let i = 0; i < concentricIteration; i++) {
         for (let j = 0; j <= i; j++) {
             if (i % 2 == 0) {
                 lat = lat - (dlat / r_earth) * (180 / Math.PI); //dlat towards west
