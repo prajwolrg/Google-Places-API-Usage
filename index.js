@@ -8,9 +8,9 @@ const r_earth = 6378000;
 
 const data_radius = 3000;
 
-function getPoints(lat, long, dy, dx, area) {
+function getPoints(lat, lng, dy, dx, area) {
     let centerPoints = [];
-    centerPoints.push(`${lat},${long}`);
+    centerPoints.push(`${lat},${lng}`);
     for (let i = 0; i < area; i++) {
         for (let j = 0; j <= i; j++) {
             if (i % 2 == 0) {
@@ -18,23 +18,23 @@ function getPoints(lat, long, dy, dx, area) {
             } else {
                 lat = lat + (dy / r_earth) * (180 / Math.PI);
             }
-            centerPoints.push(`${lat},${long}`);
+            centerPoints.push(`${lat},${lng}`);
         }
 
         for (let j = 0; j <= i; j++) {
             if (i % 2 == 0) {
-                long =
-                    long +
+                lng =
+                    lng +
                     ((dx / r_earth) * (180 / Math.PI)) /
                         Math.cos((lat * Math.PI) / 180); //up
             } else {
-                long =
-                    long -
+                lng =
+                    lng -
                     ((dx / r_earth) * (180 / Math.PI)) /
                         Math.cos((lat * Math.PI) / 180);
             }
-            centerPoints.push(`${lat},${long}`);
-            // centerPoints.push({ lat, long });
+            centerPoints.push(`${lat},${lng}`);
+            // centerPoints.push({ lat, lng });
         }
     }
     console.log(centerPoints);

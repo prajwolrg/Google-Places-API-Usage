@@ -1,16 +1,16 @@
 /**
- * Creates a series of equally-spaced points around the center latitude and longitude
+ * Creates a series of equally-spaced points around the center latitude and lngitude
  * @param  {Number} lat The center latitude
- * @param  {Number} long The center longitude
+ * @param  {Number} lng The center lngitude
  * @param  {Number} dlat (in meters) The distance you would like to move in each iteration away from lat
- * @param  {Number} dlong (in meters) The distance you would like to move in each iteration away from long
- * @param  {Number} concentricIteration The total iteration you would like to do outside the center {lat} and {long}.
- * @return {Array} The points around the center {lat} and {long}
+ * @param  {Number} dlng (in meters) The distance you would like to move in each iteration away from lng
+ * @param  {Number} concentricIteration The total iteration you would like to do outside the center {lat} and {lng}.
+ * @return {Array} The points around the center {lat} and {lng}
  */
 
-function getPoints(lat, long, dlat, dlong, concentricIteration) {
+function getPoints(lat, lng, dlat, dlng, concentricIteration) {
     let centerPoints = [];
-    centerPoints.push(`${lat},${long}`);
+    centerPoints.push(`${lat},${lng}`);
     for (let i = 0; i < concentricIteration; i++) {
         for (let j = 0; j <= i; j++) {
             if (i % 2 == 0) {
@@ -18,22 +18,22 @@ function getPoints(lat, long, dlat, dlong, concentricIteration) {
             } else {
                 lat = lat + (dlat / r_earth) * (180 / Math.PI); //dlat towards right
             }
-            centerPoints.push(`${lat},${long}`);
+            centerPoints.push(`${lat},${lng}`);
         }
 
         for (let j = 0; j <= i; j++) {
             if (i % 2 == 0) {
-                long =
-                    long +
-                    ((dlong / r_earth) * (180 / Math.PI)) /
-                        Math.cos((lat * Math.PI) / 180); //dlong towards north
+                lng =
+                    lng +
+                    ((dlng / r_earth) * (180 / Math.PI)) /
+                        Math.cos((lat * Math.PI) / 180); //dlng towards north
             } else {
-                long =
-                    long -
-                    ((dlong / r_earth) * (180 / Math.PI)) /
-                        Math.cos((lat * Math.PI) / 180); //dlong towards south
+                lng =
+                    lng -
+                    ((dlng / r_earth) * (180 / Math.PI)) /
+                        Math.cos((lat * Math.PI) / 180); //dlng towards south
             }
-            centerPoints.push(`${lat},${long}`);
+            centerPoints.push(`${lat},${lng}`);
         }
     }
     console.log(centerPoints);
