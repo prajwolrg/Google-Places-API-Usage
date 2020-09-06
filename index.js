@@ -41,7 +41,7 @@ function getPoints(lat, lng, dy, dx, area) {
     return centerPoints;
 }
 
-async function getData(currLocation) {
+async function getData(currLocation, data_type) {
     console.log("getting data for ", currLocation);
     let response = await axios.get(
         "https://maps.googleaPIs.com/maps/api/place/nearbysearch/json",
@@ -49,7 +49,7 @@ async function getData(currLocation) {
             params: {
                 location: currLocation, // run every time by changing index. run using 'node index.js'
                 radius: data_radius,
-                type: "restaurant",
+                type: data_type,
                 keyword: "party",
                 key: process.env.PLACES_API_KEY,
             },
@@ -117,7 +117,7 @@ async function getMultipleData() {
 
     let i = 0;
     const outsideInterval = setInterval(async () => {
-        await getData(centerPoints[i]);
+        await getData(centerPoints[i], "restaurant");
         i++;
         if (i == centerPoints.length) {
             clearInterval(outsideInterval);
