@@ -5,9 +5,10 @@ const getPoints = require("./getPoints.js");
 
 // filename = "restaurants.json";
 filename = "party_palaces.json";
-let allRestaurants = JSON.parse(fs.readFileSync(filename));
+let fetchedData = JSON.parse(fs.readFileSync(filename));
 
 const data_radius = 3000;
+const centerPoint = { lat: 27.7172, lng: 85.324 };
 
 async function getData(currLocation, data_type) {
     console.log("getting data for ", currLocation);
@@ -24,7 +25,7 @@ async function getData(currLocation, data_type) {
         }
     );
     console.log(response.data.status, response.data.results.length);
-    allRestaurants.push(
+    fetchedData.push(
         ...response.data.results.map((el) => {
             return { name: el.name, location: el.geometry.location };
         })
@@ -36,7 +37,7 @@ async function getData(currLocation, data_type) {
         fs.writeFileSync(
             filename,
             JSON.stringify(
-                allRestaurants.filter(
+                fetchedData.filter(
                     (restaurant, index, self) =>
                         index ===
                         self.findIndex((t) => t.name === restaurant.name)
@@ -56,7 +57,7 @@ async function getData(currLocation, data_type) {
                 },
             }
         );
-        allRestaurants.push(
+        fetchedData.push(
             ...response.data.results.map((el) => {
                 return { name: el.name, location: el.geometry.location };
             })
@@ -67,7 +68,7 @@ async function getData(currLocation, data_type) {
             fs.writeFileSync(
                 "party_palaces.json",
                 JSON.stringify(
-                    allRestaurants.filter(
+                    fetchedData.filter(
                         (restaurant, index, self) =>
                             index ===
                             self.findIndex((t) => t.name === restaurant.name)
@@ -80,20 +81,20 @@ async function getData(currLocation, data_type) {
 }
 
 async function getMultipleData() {
-    const centerPoints = getPoints(
-        27.7172,
-        85.324,
+    const surroundingPoints = getPoints(
+        centerPoint.lat,
+        centerPoint.lng,
         data_radius,
         data_radius,
         5
     );
-    console.log(centerPoints.length);
+    console.log(surroundingPoints.length);
 
     let i = 0;
     const outsideInterval = setInterval(async () => {
-        await getData(centerPoints[i], "restaurant");
+        await getData(surroundingPoints[i], "restaurant");
         i++;
-        if (i == centerPoints.length) {
+        if (i == surroundingPoints.length) {
             clearInterval(outsideInterval);
         }
     }, 5000);
