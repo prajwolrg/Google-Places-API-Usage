@@ -8,7 +8,8 @@
  * @return {Array} The points around the center {lat} and {lng}
  */
 
-function getPoints(lat, lng, dlat, dlng, concentricIteration) {
+const r_earth = 6378000;
+const getPoints = function (lat, lng, dlat, dlng, concentricIteration) {
     let centerPoints = [];
     centerPoints.push(`${lat},${lng}`);
     for (let i = 0; i < concentricIteration; i++) {
@@ -38,4 +39,6 @@ function getPoints(lat, lng, dlat, dlng, concentricIteration) {
     }
     console.log(centerPoints);
     return centerPoints;
-}
+};
+
+module.exports = getPoints;

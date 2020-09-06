@@ -1,45 +1,13 @@
 const axios = require("axios");
 const fs = require("fs");
 
+const getPoints = require("./getPoints.js");
+
 // filename = "restaurants.json";
 filename = "party_palaces.json";
 let allRestaurants = JSON.parse(fs.readFileSync(filename));
-const r_earth = 6378000;
 
 const data_radius = 3000;
-
-function getPoints(lat, lng, dy, dx, area) {
-    let centerPoints = [];
-    centerPoints.push(`${lat},${lng}`);
-    for (let i = 0; i < area; i++) {
-        for (let j = 0; j <= i; j++) {
-            if (i % 2 == 0) {
-                lat = lat - (dy / r_earth) * (180 / Math.PI); //left
-            } else {
-                lat = lat + (dy / r_earth) * (180 / Math.PI);
-            }
-            centerPoints.push(`${lat},${lng}`);
-        }
-
-        for (let j = 0; j <= i; j++) {
-            if (i % 2 == 0) {
-                lng =
-                    lng +
-                    ((dx / r_earth) * (180 / Math.PI)) /
-                        Math.cos((lat * Math.PI) / 180); //up
-            } else {
-                lng =
-                    lng -
-                    ((dx / r_earth) * (180 / Math.PI)) /
-                        Math.cos((lat * Math.PI) / 180);
-            }
-            centerPoints.push(`${lat},${lng}`);
-            // centerPoints.push({ lat, lng });
-        }
-    }
-    console.log(centerPoints);
-    return centerPoints;
-}
 
 async function getData(currLocation, data_type) {
     console.log("getting data for ", currLocation);
@@ -112,7 +80,13 @@ async function getData(currLocation, data_type) {
 }
 
 async function getMultipleData() {
-    getPoints(27.7172, 85.324, data_radius, data_radius, 5);
+    const centerPoints = getPoints(
+        27.7172,
+        85.324,
+        data_radius,
+        data_radius,
+        5
+    );
     console.log(centerPoints.length);
 
     let i = 0;
