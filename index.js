@@ -90,14 +90,14 @@ async function getMultipleData() {
     );
     console.log(surroundingPoints.length);
 
-    let i = 0;
-    const outsideInterval = setInterval(async () => {
-        await getData(surroundingPoints[i], "restaurant");
-        i++;
-        if (i == surroundingPoints.length) {
-            clearInterval(outsideInterval);
-        }
-    }, 5000);
+    // let i = 0;
+    // const outsideInterval = setInterval(async () => {
+    //     await getData(surroundingPoints[i], "restaurant");
+    //     i++;
+    //     if (i == surroundingPoints.length) {
+    //         clearInterval(outsideInterval);
+    //     }
+    // }, 5000);
 }
 
 getMultipleData();
